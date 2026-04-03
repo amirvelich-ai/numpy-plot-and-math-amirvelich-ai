@@ -1,7 +1,5 @@
 import numpy as np
 
-import numpy as np
-
 def normalized_array(input_array):
     data = np.array(input_array)
     
